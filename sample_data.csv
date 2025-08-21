@@ -1,4 +1,4 @@
-ID,Address,Owner,AssessedValue
+ID,"Address","Owner","AssessedValue"
 1,"123 Main St","Smith","350000"
 2,"456 Elm St","Johnson","420000"
 3,"789 Oak Ave","Lee","390000"
@@ -102,4 +102,5 @@ ID,Address,Owner,AssessedValue
 98,"98 Main St","Clark","574622"
 99,"99 Main St","Lewis","559400"
 100,"100 Main St","Robinson","539790"
+
 
